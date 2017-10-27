@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <com.qhj.redjay.LoadMoreRecyclerView
+        <com.qhj.rv.LoadMoreRecyclerView
             android:id="@+id/rv_simple_refresh"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

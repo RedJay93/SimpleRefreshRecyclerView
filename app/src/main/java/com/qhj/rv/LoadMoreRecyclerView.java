@@ -1,4 +1,4 @@
-package com.qhj.redjay;
+package com.qhj.rv;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
